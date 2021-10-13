@@ -5,7 +5,7 @@
 1. A is the set of positive integers from start to end (endpoints inclusive) divisible by 3.
 2. B is the set of positive integers from start to end (endpoints inclusive) divisible by 5.
 Find the set of all integers that are:
-● divisible by 3 or 5, and store it in the variable o1
+● divisible by 3 or 5, and store it in the variable o1 
 ● divisible by both 3 and 5, and store it in the variable o2
 ● divisible by 3 but not divisible by 5, and store it in the variable o3
 ● divisible by 5 but not divisible by 3, and store it in the variable o4
